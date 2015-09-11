@@ -1,6 +1,8 @@
+author: Boyuan Deng
+
 gems:
   - jekyll-feed
 
 highlighter: pygments
 markdown: redcarpet
-name: Boyuan Deng
+name: Boyuan Deng's site
