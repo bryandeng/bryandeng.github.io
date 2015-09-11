@@ -1,3 +1,6 @@
+gems:
+  - jekyll-feed
+
 highlighter: pygments
 markdown: redcarpet
 name: Boyuan Deng
